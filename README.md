@@ -29,3 +29,4 @@ I’m always open to discussing new projects or just connecting with fellow deve
 
 Thanks for visiting my GitHub profile! Let’s build something amazing together! 🚀
 
+<a href="https://linkedin.com/in/deanburrows" target="_blank">LinkedIn</a>
