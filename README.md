@@ -20,7 +20,7 @@ I have just begun my journey to becoming a Frontend Developer and to do that, I'
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/deanburrowscm](https://linkedin.com/in/deanburrowscm)
+- **LinkedIn**: [deanburrowscm](https://linkedin.com/in/deanburrowscm)
 - **Twitter/X**: [@DeanBurrows](https://twitter.com/Dean_Burrows_PM)
 
 I’m always open to discussing new projects or just connecting with fellow developers. Feel free to drop a message!
