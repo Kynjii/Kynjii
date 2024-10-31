@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I have just begun my journey to becoming a Frontend Developer and to do that, I've picked up the "Frontend Developer Career Path" course from Scrimba.
 
-### 🌱 Languages, Frameworks and Concepts I'm Aiming to Learn
+### 🌱 Languages, Frameworks and Concepts I'm aiming to learn
 
 - 🌐 **HTML** & **CSS** - Building the backbone of the web
 - ⚙️ **JavaScript** - Enhancing interactivity and functionality
