@@ -17,6 +17,8 @@ I have just begun my journey to becoming a Frontend Developer and to do that, I'
 - 🔥 **Firebase** - Leveraging backend services and real-time databases
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kynjii&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+
 ---
 
 ### 📫 Let's Connect
