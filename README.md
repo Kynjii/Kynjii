@@ -16,9 +16,8 @@ I have just begun my journey to becoming a Frontend Developer and to do that, I'
 - ⚛️ **React** - Building powerful, modular front-end applications
 - 🔥 **Firebase** - Leveraging backend services and real-time databases
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kynjii&theme=gotham&show_icons=true&hide_border=true&count_private=true) <br>
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kynjii&theme=gotham&hide_border=true) <br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kynjii&theme=gotham&show_icons=true&hide_border=true&count_private=true) <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kynjii&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ---
