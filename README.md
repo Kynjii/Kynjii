@@ -26,7 +26,7 @@ I have just begun my journey to becoming a Frontend Developer and to do that, I'
 - **LinkedIn**: [Clicky](https://linkedin.com/in/deanburrowscm)
 - **Twitter/X**: [Clicky Clicky](https://twitter.com/Dean_Burrows_PM)
 
-I’m always open to discussing new projects or just connecting with fellow developers. Feel free to drop a message!
+I’m always open to discussing starting my Dev career or just connecting with fellow developers. Feel free to drop a message!
 
 ---
 
