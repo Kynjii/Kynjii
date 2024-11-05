@@ -1,4 +1,4 @@
-# 👋 Hello, I'm @Kynjii
+# 👋 Hello, I'm Dean
 
 Welcome to my GitHub profile! 
 
