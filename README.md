@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 
 
-I have just begun my journey to becoming a Frontend Developer and to do that, I've picked up the "Frontend Developer Career Path" course from Scrimba.
+I have just begun my journey to becoming a Frontend Developer (Oct 28th) and to do that, I've picked up the "Frontend Developer Career Path" course from Scrimba.
 
 ### 🌱 Languages, Frameworks and Concepts I'm aiming to learn
 
