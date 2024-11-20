@@ -24,7 +24,7 @@ I have just begun my journey to becoming a Frontend Developer (Oct 28th) and to 
 
 ### 📫 Let's Connect
 - **LinkedIn**: [Clicky](https://linkedin.com/in/deanburrowscm)
-- **Twitter/X**: [Clicky Clicky](https://twitter.com/Dean_Burrows_PM)
+- **Twitter/X**: [Clicky Clicky](https://x.com/Dean_the_dev)
 
 I’m always open to discussing starting my Dev career or just connecting with fellow developers. Feel free to drop a message!
 
