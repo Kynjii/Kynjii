@@ -6,12 +6,12 @@ I have just begun my journey to becoming a Frontend Developer (Oct 28th) and to 
 
 ### 🌱 Languages, Frameworks and Concepts I'm aiming to learn
 
-- 🌐 **HTML** & **CSS** - Building the backbone of the web
-- ⚙️ **JavaScript** - Enhancing interactivity and functionality
-- ♿ **Accessible Development** - Creating inclusive and user-friendly experiences
-- 🔄 **DRY Code** - Writing clean, reusable code
-- 📱 **Responsive Design** - Ensuring smooth experiences across devices
-- 🔌 **APIs** - Connecting and communicating across services
+- 🌐 **HTML** & **CSS** - Building the backbone of the web ✅
+- ⚙️ **JavaScript** - Enhancing interactivity and functionality ✅
+- ♿ **Accessible Development** - Creating inclusive and user-friendly experiences ✅
+- 🔄 **DRY Code** - Writing clean, reusable code ✅
+- 📱 **Responsive Design** - Ensuring smooth experiences across devices ✅
+- 🔌 **APIs** - Connecting and communicating across services 🔄
 - 🎨 **UI Design** - Crafting visually appealing interfaces
 - ⚛️ **React** - Building powerful, modular front-end applications
 - 🔥 **Firebase** - Leveraging backend services and real-time databases
