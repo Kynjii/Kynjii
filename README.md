@@ -4,6 +4,10 @@ Welcome to my GitHub profile!
 
 I have just begun my journey to becoming a Frontend Developer (Oct 28th) and to do that, I've picked up the "Frontend Developer Career Path" course from Scrimba.
 
+let career = "Product Manager" 
+career = "Frontend Dev"  
+console.log("Still shipping, just with divs now! 🚀")
+
 ### 🌱 Languages, Frameworks and Concepts I'm aiming to learn
 
 - 🌐 **HTML** & **CSS** - Building the backbone of the web ✅
