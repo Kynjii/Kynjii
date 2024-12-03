@@ -20,7 +20,7 @@ console.log("Still shipping, just with divs now! 🚀")
 - ⚛️ **React** - Building powerful, modular front-end applications
 - 🔥 **Firebase** - Leveraging backend services and real-time databases
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6730c31c31d65c235dc9a989?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6730c31c31d65c235dc9a989?variant=dark)](https://roadmap.sh)
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kynjii&theme=gotham&hide_border=true) <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kynjii&theme=gotham&show_icons=true&hide_border=true&count_private=true) <br>
