@@ -21,8 +21,8 @@ console.log("Still shipping, just with divs now! 🚀")
 - 🔥 **Firebase** - Leveraging backend services and real-time databases
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kynjii&theme=chartreuse-dark&hide_border=true)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kynjii&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kynjii&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
