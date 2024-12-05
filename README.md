@@ -34,4 +34,4 @@ I’m always open to discussing starting my Dev career or just connecting with f
 
 ---
 
-Thanks for visiting my GitHub profile! Let’s build something amazing together! 🚀
+Thanks for visiting my GitHub profile!
