@@ -19,6 +19,7 @@ console.log("Still shipping, just with divs now! 🚀")
 - 🎨 **UI Design** - Crafting visually appealing interfaces ✅
 - ⚛️ **React** - Building powerful, modular front-end applications 🔄
 - 🔥 **Firebase** - Leveraging backend services and real-time databases ✅
+- 🎨 Tailwind CSS - Quickly designing modern, responsive user interfaces 🔄
 
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kynjii&theme=chartreuse-dark&hide_border=true)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kynjii&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)<br>
