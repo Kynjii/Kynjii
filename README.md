@@ -2,7 +2,7 @@ Hello, I'm Dean, a product manager transitioning into frontend development. I'm 
 
 ```javascript
 let career = "Product Manager"
-career = "Frontend Dev"  
+career = "Frontend Engineer"  
 console.log("Still shipping, just with divs now! 🚀")
 ```
 
