@@ -14,17 +14,15 @@ console.log("Still shipping, just with divs now! 🚀")
 
 Here are some of my public repositories:
 
-- **Recipe Page**  
-  A solution to a Frontend Mentor challenge, this project showcases a responsive recipe page built with semantic HTML5 and CSS.  
-  [GitHub Repository](https://github.com/Kynjii/Recipe-page) | [Live Demo](https://shimmering-madeleine-c675e9.netlify.app/)
+### Frontend Mentor Challenges
+- [Recipe Page](https://github.com/Kynjii/Recipe-page)
+- [QR Code Component](https://github.com/Kynjii/QR-code-component)
+- [Product Preview Card Component](https://github.com/Kynjii/Product-preview-card-component)
+- [Social Links Profile](https://github.com/Kynjii/Social-links-profile)
 
-- **QR Code Component**  
-  Another Frontend Mentor challenge, this project involves creating a simple QR code component using HTML and CSS.  
-  [GitHub Repository](https://github.com/Kynjii/QR-code-component) | [Live Demo](https://aquamarine-longma-12330d.netlify.app/)
+### Personal Projects
+- [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-Price-Tracker)
 
-- **Preferences Form**  
-  A Scrimba Tailwind CSS Challenge project, this repository contains a preferences form built with Tailwind CSS.  
-  [GitHub Repository](https://github.com/Kynjii/Preferences-Form)
 
 ## Learning Journey
 
