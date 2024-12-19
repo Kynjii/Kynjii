@@ -1,14 +1,34 @@
-# 👋 Hello, I'm Dean
-
-Welcome to my GitHub profile! 
-
-I have just begun my journey to becoming a Frontend Developer (Oct 28th) and to do that, I've picked up the "Frontend Developer Career Path" course from Scrimba.
+Hello, I'm Dean, a product manager transitioning into frontend development. I'm currently enrolled in Scrimba's Frontend Developer Career Path and am excited to share my journey and projects with you.
 
 let career = "Product Manager" <br>
 career = "Frontend Dev"  
 console.log("Still shipping, just with divs now! 🚀")
 
-### 🌱 Languages, Frameworks and Concepts I'm aiming to learn
+## About Me
+
+- **Location:** Berlin
+- **Current Focus:** Learning frontend development
+- **Background:** Product management
+
+## Projects
+
+Here are some of my public repositories:
+
+- **Recipe Page**  
+  A solution to a Frontend Mentor challenge, this project showcases a responsive recipe page built with semantic HTML5 and CSS.  
+  [GitHub Repository](https://github.com/Kynjii/Recipe-page) | [Live Demo](https://shimmering-madeleine-c675e9.netlify.app/)
+
+- **QR Code Component**  
+  Another Frontend Mentor challenge, this project involves creating a simple QR code component using HTML and CSS.  
+  [GitHub Repository](https://github.com/Kynjii/QR-code-component) | [Live Demo](https://aquamarine-longma-12330d.netlify.app/)
+
+- **Preferences Form**  
+  A Scrimba Tailwind CSS Challenge project, this repository contains a preferences form built with Tailwind CSS.  
+  [GitHub Repository](https://github.com/Kynjii/Preferences-Form)
+
+## Learning Journey
+
+I'm currently focusing on:
 
 - 🌐 **HTML** & **CSS** - Building the backbone of the web ✅
 - ⚙️ **JavaScript** - Enhancing interactivity and functionality ✅
