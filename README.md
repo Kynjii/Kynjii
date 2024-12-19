@@ -1,8 +1,10 @@
 Hello, I'm Dean, a product manager transitioning into frontend development. I'm currently enrolled in Scrimba's Frontend Developer Career Path and am excited to share my journey and projects with you.
 
+```javascript
 let career = "Product Manager" <br>
 career = "Frontend Dev"  
 console.log("Still shipping, just with divs now! 🚀")
+```
 
 ## About Me
 
