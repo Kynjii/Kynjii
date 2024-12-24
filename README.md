@@ -12,6 +12,10 @@ console.log("Still shipping, just with divs now! 🚀");
 - **Current Focus:** Learning frontend development
 - **Background:** Product management
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kynjii&theme=gotham&hide_border=true)
+
 ## Projects
 
 Here are some of my public repositories:
