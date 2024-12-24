@@ -1,9 +1,9 @@
 Hello, I'm Dean, a product manager transitioning into frontend development. I'm currently enrolled in Scrimba's Frontend Developer Career Path and am excited to share my journey and projects with you.
 
 ```javascript
-let career = "Product Manager"
-career = "Frontend Engineer"  
-console.log("Still shipping, just with divs now! 🚀")
+let career = "Product Manager";
+career = "Frontend Engineer";
+console.log("Still shipping, just with divs now! 🚀");
 ```
 
 ## About Me
@@ -17,14 +17,15 @@ console.log("Still shipping, just with divs now! 🚀")
 Here are some of my public repositories:
 
 ### Frontend Mentor Challenges
+
 - [Recipe Page](https://github.com/Kynjii/Recipe-page)
 - [QR Code Component](https://github.com/Kynjii/QR-code-component)
 - [Product Preview Card Component](https://github.com/Kynjii/Product-preview-card-component)
 - [Social Links Profile](https://github.com/Kynjii/Social-links-profile)
 
 ### Personal Projects
-- [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-Price-Tracker)
 
+- [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-Price-Tracker)
 
 ## Learning Journey
 
@@ -34,7 +35,7 @@ I'm currently focusing on:
 - ⚙️ **JavaScript** - Enhancing interactivity and functionality ✅
 - ♿ **Accessible Development** - Creating inclusive and user-friendly experiences ✅
 - 🔄 **DRY Code** - Writing clean, reusable code ✅
-- 📱 **Responsive Design** - Ensuring smooth experiences across devices 
+- 📱 **Responsive Design** - Ensuring smooth experiences across devices
 - 🔌 **APIs** - Connecting and communicating across services ✅
 - 🎨 **UI Design** - Crafting visually appealing interfaces ✅
 - ⚛️ **React** - Building powerful, modular front-end applications 🔄
@@ -42,11 +43,10 @@ I'm currently focusing on:
 - 🎨 Tailwind CSS - Quickly designing modern, responsive user interfaces ✅
 - 🛠️ TypeScript - Adding static typing to JavaScript for improved reliability ✅
 
-![Metrics](https://metrics.lecoq.io/Kynjii?template=classic&isocalendar=1&languages=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=graph&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Europe%2FBerlin)
-
 ---
 
 ### 📫 Let's Connect
+
 - **LinkedIn**: [Clicky](https://linkedin.com/in/deanburrowscm)
 - **Twitter/X**: [Clicky Clicky](https://x.com/Dean_the_dev)
 
