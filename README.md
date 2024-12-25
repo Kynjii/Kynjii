@@ -12,8 +12,8 @@ console.log("Still shipping, just with divs now! 🚀");
 - **Current Focus:** Learning frontend development
 - **Background:** Product management
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&layout=compact)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&count_private=true)<br>
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Kynjii&theme=gotham&hide_border=true)
 
 ## Projects
