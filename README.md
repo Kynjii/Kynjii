@@ -9,7 +9,7 @@ console.log("Still shipping, just with divs now! 🚀");
 ## About Me
 
 - **Location:** Berlin
-- **Current Focus:** Learning frontend development
+- **Current Focus:** Learning Frontend Development
 - **Background:** Product Management, Community Management, Quality Assurance (Games)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&layout=compact)<br>
