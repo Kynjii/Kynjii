@@ -27,6 +27,7 @@ Here are some of my public repositories:
 - [Product Preview Card Component](https://github.com/Kynjii/Product-preview-card-component)
 - [Social Links Profile](https://github.com/Kynjii/Social-links-profile)
 - [Four Card Feature Section](https://github.com/Kynjii/Four-card-feature-section)
+- [Testimonials Grid Section](https://github.com/Kynjii/Testimonials-Grid-Section)
 
 ### Personal Projects
 
