@@ -20,7 +20,8 @@ console.log("Still shipping, just with divs now! 🚀");
 
 Here are some of my public repositories:
 
-### Frontend Mentor Challenges
+### Frontend Mentor Challenges - Ongoing
+The goal of each task is to match the design given as accurately as possible which unfortunately means you've likely seen these a million times.
 
 - [Recipe Page](https://github.com/Kynjii/Recipe-page)
 - [QR Code Component](https://github.com/Kynjii/QR-code-component)
