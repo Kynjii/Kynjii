@@ -18,7 +18,7 @@ console.log("Still shipping, just with divs now! 🚀");
 
 ## Projects
 
-Here are some of my public repositories:
+Here are some of my repositories:
 
 ### Frontend Mentor Challenges - Ongoing
 The goal of each task is to match the design given as accurately as possible which unfortunately means you've likely seen these a million times.
