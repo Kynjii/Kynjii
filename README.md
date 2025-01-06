@@ -34,7 +34,7 @@ The goal of each task is to match the design given as accurately as possible whi
 
 - [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
 - A Twitch Extension Project for a popular World of Warcraft website - WIP
-- A anime discovery and tracking project - WIP
+- A anime discovery and tracking project - WIP - Rewriting it in React
 
 ## Learning Journey
 
