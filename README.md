@@ -18,8 +18,6 @@ console.log("Still shipping, just with divs now! 🚀");
 
 ## Projects
 
-Here are some of my repositories:
-
 ### Personal Projects
 
 - [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
