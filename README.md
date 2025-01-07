@@ -1,4 +1,4 @@
-Hello, I'm Dean, a product manager transitioning into frontend development. I'm currently enrolled in Scrimba's Frontend Developer Career Path and I am excited to share my journey and projects with you.
+Hello, I'm Dean, a product manager who transitioned into frontend development.
 
 ```javascript
 let career = "Product Manager";
@@ -42,24 +42,6 @@ The goal of each task is to match the design given as accurately as possible whi
 - [Social Links Profile](https://github.com/Kynjii/Social-links-profile)
 - [Four Card Feature Section](https://github.com/Kynjii/Four-card-feature-section)
 - [Testimonials Grid Section](https://github.com/Kynjii/Testimonials-Grid-Section)
-
-
-
-## Learning Journey
-
-I'm currently focusing on:
-
-- 🌐 **HTML** & **CSS** - Building the backbone of the web ✅
-- ⚙️ **JavaScript** - Enhancing interactivity and functionality ✅
-- ♿ **Accessible Development** - Creating inclusive and user-friendly experiences ✅
-- 🔄 **DRY Code** - Writing clean, reusable code ✅
-- 📱 **Responsive Design** - Ensuring smooth experiences across devices
-- 🔌 **APIs** - Connecting and communicating across services ✅
-- 🎨 **UI Design** - Crafting visually appealing interfaces ✅
-- 🔥 **Firebase** - Leveraging backend services and real-time databases ✅
-- 🎨 Tailwind CSS - Quickly designing modern, responsive user interfaces ✅
-- 🛠️ TypeScript - Adding static typing to JavaScript for improved reliability ✅
-- ⚛️ **React** - Building powerful, modular front-end applications 🔄
 
 ---
 
