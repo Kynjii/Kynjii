@@ -9,7 +9,7 @@ console.log("Still shipping, just with divs now! 🚀");
 ## About Me
 
 - **Location:** Berlin
-- **Current Focus:** Learning Frontend Development
+- **Current Focus:** Mastering React
 - **Background:** Product Management, Community Management, Quality Assurance (Games)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&layout=compact)<br>
@@ -19,6 +19,17 @@ console.log("Still shipping, just with divs now! 🚀");
 ## Projects
 
 Here are some of my repositories:
+
+### Personal Projects
+
+- [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
+- A Twitch Extension Project for a popular World of Warcraft website - WIP
+- A anime discovery and tracking project - WIP - Rewriting it in React
+
+### Scrimba Challenges
+
+- [Hangman-style game made with React](https://github.com/Kynjii/Assemble-Game)
+- [The game "Tenzies" made with React](https://github.com/Kynjii/Tenzies)
 
 ### Frontend Mentor Challenges - Ongoing
 The goal of each task is to match the design given as accurately as possible which unfortunately means you've likely seen these a million times.
@@ -30,11 +41,7 @@ The goal of each task is to match the design given as accurately as possible whi
 - [Four Card Feature Section](https://github.com/Kynjii/Four-card-feature-section)
 - [Testimonials Grid Section](https://github.com/Kynjii/Testimonials-Grid-Section)
 
-### Personal Projects
 
-- [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
-- A Twitch Extension Project for a popular World of Warcraft website - WIP
-- A anime discovery and tracking project - WIP - Rewriting it in React
 
 ## Learning Journey
 
