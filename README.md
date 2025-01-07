@@ -30,6 +30,8 @@ Here are some of my repositories:
 
 - [Hangman-style game made with React](https://github.com/Kynjii/Assemble-Game)
 - [The game "Tenzies" made with React](https://github.com/Kynjii/Tenzies)
+- [Meme Generator made with React](https://github.com/Kynjii/MemeGenerator)
+- [A Movie Finder and Tracker](https://github.com/Kynjii/MovieWatchlist)
 
 ### Frontend Mentor Challenges - Ongoing
 The goal of each task is to match the design given as accurately as possible which unfortunately means you've likely seen these a million times.
