@@ -21,8 +21,8 @@ console.log("Still shipping, just with divs now! 🚀");
 ### Personal Projects
 
 - [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
-- A Twitch Extension Project for a popular World of Warcraft website - WIP
-- A anime discovery and tracking project - WIP - Rewriting it in React
+- A Twitch Extension Project for a popular World of Warcraft website - [Link](https://t.co/gBsXEwxSCx)
+- A anime discovery and tracking project - WIP - [Link](https://kitsu-track.vercel.app)
 
 ### Scrimba Challenges
 
