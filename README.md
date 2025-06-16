@@ -9,7 +9,7 @@ console.log("Still shipping, just with divs now! 🚀");
 ## About Me
 
 - **Location:** Berlin
-- **Current Focus:** Mastering React
+- **Current Focus:** Learning node.js and improving my foundational knowledge of JS
 - **Background:** Product Management, Community Management, Quality Assurance (Games)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&layout=compact)<br>
@@ -22,7 +22,7 @@ console.log("Still shipping, just with divs now! 🚀");
 
 - [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
 - A Twitch Extension Project for a popular World of Warcraft website - [Link](https://t.co/gBsXEwxSCx)
-- A anime discovery and tracking project - WIP - [Link](https://kitsu-track.vercel.app)
+- A anime discovery and tracking project - [Link](https://kitsu-track.vercel.app)
 
 ### Scrimba Challenges
 
