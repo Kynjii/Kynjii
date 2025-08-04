@@ -9,7 +9,7 @@ console.log("Still shipping, just with divs now! 🚀");
 ## About Me
 
 - **Location:** Berlin
-- **Current Focus:** Learning node.js and improving my foundational knowledge of JS
+- **Current Focus:** Improving my foundational knowledge of JS and building Roblox games using Luau
 - **Background:** Product Management, Community Management, Quality Assurance (Games)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kynjii&theme=gotham&show_icons=true&hide_border=true&layout=compact)<br>
