@@ -6,6 +6,7 @@ career = "Frontend Developer";
 console.log("Still shipping, just with divs now! 🚀");
 ```
 
+
 ## About Me
 
 - **Location:** Berlin
