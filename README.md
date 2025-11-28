@@ -6,7 +6,6 @@ career = "Frontend Developer";
 console.log("Still shipping, just with divs now! 🚀");
 ```
 
-
 ## About Me
 
 - **Location:** Berlin
@@ -24,25 +23,7 @@ console.log("Still shipping, just with divs now! 🚀");
 - [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
 - A Twitch Extension Project for a popular World of Warcraft website - [Link](https://t.co/gBsXEwxSCx)
 - A anime discovery and tracking project - [Link](https://kitsu-track.vercel.app)
-
-### Scrimba Challenges
-
-- [Hangman-style game made with React](https://github.com/Kynjii/Assemble-Game)
-- [The game "Tenzies" made with React](https://github.com/Kynjii/Tenzies)
-- [Meme Generator made with React](https://github.com/Kynjii/MemeGenerator)
-- [A Movie Finder and Tracker](https://github.com/Kynjii/MovieWatchlist)
-
-### Frontend Mentor Challenges - Ongoing
-The goal of each task is to match the design given as accurately as possible which unfortunately means you've likely seen these a million times.
-
-- [Recipe Page](https://github.com/Kynjii/Recipe-page)
-- [QR Code Component](https://github.com/Kynjii/QR-code-component)
-- [Product Preview Card Component](https://github.com/Kynjii/Product-preview-card-component)
-- [Social Links Profile](https://github.com/Kynjii/Social-links-profile)
-- [Four Card Feature Section](https://github.com/Kynjii/Four-card-feature-section)
-- [Testimonials Grid Section](https://github.com/Kynjii/Testimonials-Grid-Section)
-
----
+- Roblox game
 
 ### 📫 Let's Connect
 
