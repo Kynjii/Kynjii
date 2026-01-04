@@ -12,7 +12,7 @@ console.log("Still shipping, just with divs now! 🚀");
 - **Current Focus:** Improving my foundational knowledge of JS and building Roblox games using Luau
 - **Background:** Product Management, Community Management, Quality Assurance (Games)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DeanTheDev/30dcab0d-a341-4c18-91af-9779ada2ef9f.png" width="300" height="300" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DeanTheDev/30dcab0d-a341-4c18-91af-9779ada2ef9f.png" width="400" height="400" /></a>
 
 ## Projects
 
