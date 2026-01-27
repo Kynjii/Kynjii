@@ -18,8 +18,8 @@ console.log("Still shipping, just with divs now! 🚀");
 
 ### Personal Projects
 
-- Smart Price Comparison Assistant - Chrome Extension[Link](https://github.com/Kynjii/Smart-Price-Comparison-Assistant)
-- A Twitch Extension Project for a popular World of Warcraft website - [Link](https://t.co/gBsXEwxSCx)
+- Smart Price Comparison Assistant - Chrome Extension - [Repo](https://github.com/Kynjii/Smart-Price-Comparison-Assistant)
+- A Twitch Extension Project for a popular World of Warcraft website - [Repo](https://t.co/gBsXEwxSCx)
 - A anime discovery and tracking project - [Link](https://kitsu-track.vercel.app)
 - Roblox game
 
