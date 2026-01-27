@@ -9,7 +9,7 @@ console.log("Still shipping, just with divs now! 🚀");
 ## About Me
 
 - **Location:** Berlin
-- **Current Focus:** Improving my foundational knowledge of JS and building Roblox games using Luau
+- **Current Focus:** Improving my foundational knowledge of React, messing around in the database
 - **Background:** Product Management, Community Management, Quality Assurance (Games)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DeanTheDev/30dcab0d-a341-4c18-91af-9779ada2ef9f.png" width="500" height="500" /></a>
@@ -18,7 +18,7 @@ console.log("Still shipping, just with divs now! 🚀");
 
 ### Personal Projects
 
-- [Amazon Price Tracker - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
+- Smart Price Comparison Assistant - Chrome Extension](https://github.com/Kynjii/Amazon-to-Idealo-price-checker)
 - A Twitch Extension Project for a popular World of Warcraft website - [Link](https://t.co/gBsXEwxSCx)
 - A anime discovery and tracking project - [Link](https://kitsu-track.vercel.app)
 - Roblox game
