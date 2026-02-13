@@ -2,7 +2,7 @@ Hello, I'm Dean, a product manager who transitioned into software development.
 
 ```javascript
 let career = "Product Manager";
-career = "Frontend Developer";
+career = "Software Developer";
 console.log("Still shipping, just with divs now! 🚀");
 ```
 
