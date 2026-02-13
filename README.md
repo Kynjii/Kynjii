@@ -1,4 +1,4 @@
-Hello, I'm Dean, a product manager who transitioned into frontend development.
+Hello, I'm Dean, a product manager who transitioned into software development.
 
 ```javascript
 let career = "Product Manager";
