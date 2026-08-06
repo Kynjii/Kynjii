@@ -20,7 +20,7 @@ console.log("Still shipping, just with divs now! 🚀");
 
 - Smart Price Comparison Assistant - Chrome Extension - [Repo](https://github.com/Kynjii/Smart-Price-Comparison-Assistant)
 - A Twitch Extension Project for a popular World of Warcraft website - [Link](https://t.co/gBsXEwxSCx)
-- A anime discovery and tracking project - [Link](https://kitsu-track.vercel.app)
+- A anime discovery and tracking project
 - An idle Fishing Game in Roblox
 
 ### 📫 Let's Connect
